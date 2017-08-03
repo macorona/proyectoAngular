@@ -1,0 +1,96 @@
+{
+    "institucion": "Banco de México",
+    "empleados": [
+        {
+            "nombre": "Cuahutémoc Portas Sanchez",
+            "clave": "C10005",
+            "puesto": "Lider de especialidad",
+            "oficina": "Sbg. Desarrollo Sistemas Op B",
+            "rol": "Principal",
+            "email": "cportas@banxico.org.mx",
+            "tel_ofi": "52372000",
+            "tel_casa": "54326784",
+            "movil": "5567843589",
+            "imagen": "portas2.png",
+            "grupo":"P"
+        },
+        {
+            "nombre": "Marco Antonio Corona Ruiz",
+            "clave": "C09654",
+            "puesto": "Analista de Sistemas",
+            "oficina": "Sbg. Desarrollo Sistemas Op B",
+            "rol": "Suplente",
+            "email": "macorona@banxico.org.mx",
+            "tel_ofi": "52372000",
+            "tel_casa": "53430046",
+            "movil": "5522990109",
+            "imagen": "corona2.jpg",
+            "grupo":"P"
+        },
+        {
+            "nombre": "Arturo Garcia Rico",
+            "clave": "A13879",
+            "puesto": "Analista de Sistemas",
+            "oficina": "Sbg. Desarrollo Sistemas Op B",
+            "rol": "Suplente",
+            "email": "carlos.garcia@banxico.org.mx",
+            "tel_ofi": "52372000",
+            "tel_casa": "34562389",
+            "movil": "5587902356",
+            "imagen": "rico.jpg",
+            "grupo":"P"
+        },
+        {
+            "nombre": "Solange Hernández Chávez",
+            "clave": "D10598",
+            "puesto": "Lider de especialidad",
+            "oficina": "Sbg. Desarrollo Sistemas Op B",
+            "rol": "Principal",
+            "email": "shernandez@banxico.org.mx",
+            "tel_ofi": "52372000",
+            "tel_casa": "56784322",
+            "movil": "558906432",
+            "imagen": "solange.png",
+            "grupo":"H"
+        },
+        {
+            "nombre": "Diego Hernández Domínguez",
+            "clave": "E13332",
+            "puesto": "Analista de Sistemas",
+            "oficina": "Sbg. Desarrollo Sistemas Op B",
+            "rol": "Suplente",
+            "email": "diego.hernandez@banxico.org.mx",
+            "tel_ofi": "52372000",
+            "tel_casa": "38764568",
+            "movil": "5576543249",
+            "imagen": "dieguo.jpg",
+            "grupo":"H"
+        },
+        {
+            "nombre": "Luis Meza Chávez",
+            "clave": "K14123",
+            "puesto": "Analista de Sistemas",
+            "oficina": "Sbg. Desarrollo Sistemas Op B",
+            "rol": "Suplente",
+            "email": "luis.meza@banxico.org.mx",
+            "tel_ofi": "52372000",
+            "tel_casa": "467890097",
+            "movil": "5589063425",
+            "imagen": "luis.jpg",
+            "grupo":"H"
+        },
+        {
+            "nombre": "Mario Hernández Barraza",
+            "clave": "E13486",
+            "puesto": "Analista de Sistemas",
+            "oficina": "Sbg. Desarrollo Sistemas Op B",
+            "rol": "Suplente",
+            "email": "mario.hernandez@banxico.org.mx",
+            "tel_ofi": "52372000",
+            "tel_casa": "32456782",
+            "movil": "5535789056",
+            "imagen": "mario.jpg",
+            "grupo":"H"
+        }
+    ]
+}

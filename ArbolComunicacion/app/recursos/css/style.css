@@ -1,0 +1,53 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+html {
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+nav, footer {
+  background-color: #182b47 !important;
+}
+
+#imagenBMSup {
+    content: url("/app/recursos/imagenes/imagenBancoMexico.jpg");
+}
+
+#imagenBMInf {
+    content: url("/app/recursos/imagenes/imagenBancoMexico2.jpg");
+}
+
+#imagenEmpleado {
+  float: right;
+  border: 1px dotted black;
+  margin: 0px 0px 15px 20px;
+  width: "50px" !important;
+  height: "50px"!important;
+}
+
+.centerElement {
+  text-align: center;
+}
+
+.section {
+  background-color: #182b47;
+}
+
+.btn {
+  background-color: #182b47;
+}
+
+.modal {
+  max-height: 90%;
+}
+
+.modal-form-row {
+  margin-bottom: 0px;
+}
